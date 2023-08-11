@@ -11,7 +11,7 @@
                 <div>{email}</div>
             </div>
             <i className="trash alternate outline icon"
-            style = {{color: "red", marginTop : "7px"}}>
+            style = {{color: "red", marginTop : "7px"}} onClick={()=>props.clickHandler(id)}>
             </i>
         </div>
 
