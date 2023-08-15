@@ -5,3 +5,6 @@
 
 ## install unique key
 npm i uuidv4
+
+## install react router dom
+npm install react-router-dom
