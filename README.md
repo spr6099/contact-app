@@ -8,3 +8,9 @@ npm i uuidv4
 
 ## install react router dom
 npm install react-router-dom
+
+## downgrade react router dom
+bcz render and switch not working in modern router dom
+npm i react-router-dom@5.1.0
+
+https://www.youtube.com/watch?v=0riHps91AzE&t=5028s

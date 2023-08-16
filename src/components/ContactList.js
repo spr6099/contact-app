@@ -1,4 +1,3 @@
-import react from "react";
 import ContactCard from "./ContactCard";
 import { Link } from "react-router-dom";
 
